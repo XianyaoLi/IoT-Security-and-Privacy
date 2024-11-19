@@ -1,6 +1,6 @@
 # IoT-Security-and-Privacy
 
-Lab 0: ESP32 Initialization
+Lab 0: ESP32 Initialization (No net No calibration)
 
 Lab 1: Attacking a UART Console
 
